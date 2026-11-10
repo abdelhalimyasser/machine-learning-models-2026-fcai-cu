@@ -31,7 +31,7 @@
 | Ali Samy              | [@AliSamy12](https://github.com/Aly-Sami)                          | - |
 | Nour Eldeen Shaban    | [@]()                         | - |
 | Yousef Mohamed        | [@]()                                 | - |
-| Sarah Mohamed         | [@]()                         | - |
+| Sarah Mohamed         | [@sarrahmuhamed27](https://github.com/sarrahmuhamed27)                         | - |
 | Dina                  | [@]()                                           | - |
 
 ---
