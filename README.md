@@ -29,7 +29,7 @@
 |-----------------------|--------------------------------------------------------------------|--------|
 | Abdelhalim Yasser     | [@abdelhalimyasser](https://github.com/abdelhalimyasser)           | - |
 | Ali Samy              | [@AliSamy12](https://github.com/Aly-Sami)                          | - |
-| Nour Eldeen Shaban    | [@]()                         | - |
+| Nour Eldeen Shaban    | [@noureldeenshaaban](https://github.com/noureldeenshaaban)                         | - |
 | Yousef Mohamed        | [@]()                                 | - |
 | Sarah Mohamed         | [@sarrahmuhamed27](https://github.com/sarrahmuhamed27)                         | - |
 | Dina                  | [@]()                                           | - |
