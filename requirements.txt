@@ -1,0 +1,32 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# NLP
+nltk
+
+#Computer Vision
+opencv-python-headless
+
+# Model Explanation & Visualization
+xgboost
+lightgbm
+plotly
+
+# Experiment Tracking
+optuna
+
+# Data Cleaning
+missingno
+category_encoders
+
+# Model Deployment
+streamlit
+joblib
+
+# Jupyter Support
+jupyter
+ipykernel

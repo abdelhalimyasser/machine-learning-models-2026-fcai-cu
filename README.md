@@ -1,4 +1,4 @@
-# Machine Learning Course Projects
+# AI-330 Machine Learning Course Projects
 
 <img width="130" height="145" alt="capital-university" src="https://github.com/user-attachments/assets/9a940f0b-d3d3-454e-9413-dd7fd88d9f2e" align="right" />
 
@@ -6,8 +6,10 @@
 **Capital University** *~(Formerly Helwan University)*
 
 **Course:** Machine Learning (AI-330)  
-**Instructor:** Dr. Salwa Osama 
+**Instructor:** Dr. Salwa Osama  
 **Academic Year:** 2026/2027
+
+<br>
 
 ---
 
@@ -27,12 +29,12 @@
 
 | Name                  | GitHub                                                             | Module |
 |-----------------------|--------------------------------------------------------------------|--------|
-| Abdelhalim Yasser     | [@abdelhalimyasser](https://github.com/abdelhalimyasser)           | - |
-| Ali Samy              | [@AliSamy12](https://github.com/Aly-Sami)                          | - |
-| Nour Eldeen Shaban    | [@noureldeenshaaban](https://github.com/noureldeenshaaban)                         | - |
-| Yousef Mohamed        | [@]()                                 | - |
-| Sarah Mohamed         | [@sarrahmuhamed27](https://github.com/sarrahmuhamed27)                         | - |
-| Dina                  | [@]()                                           | - |
+| Abdelhalim Yasser     | [@abdelhalimyasser](https://github.com/abdelhalimyasser)           | c_text_classifier |
+| Ali Samy              | [@AliSamy12](https://github.com/Aly-Sami)                          | c_text_classifier |
+| Nour Eldeen Shaban    | [@noureldeenshaaban](https://github.com/noureldeenshaaban)         | c_image_classifier |
+| Yousef Mohamed        | [@yousefmass](https://github.com/yousefmass)                       | c_image_classifier |
+| Sarah Mohamed         | [@sarrahmuhamed27](https://github.com/sarrahmuhamed27)             | a_regression |
+| Dina                  | [@don-06don](https://github.com/don-06don)                         | a_regression |
 
 ---
 
@@ -58,6 +60,14 @@ git push origin main
 ```bash
 git pull origin main
 ```
+
+5. setup your virtual environment and install the requirements
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
 ---
 
 <p align="center">
