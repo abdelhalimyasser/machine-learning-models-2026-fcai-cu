@@ -1,0 +1,9 @@
+Files removed during data cleaning
+=================================
+
+DUPLICATE: ..\..\datasets\b_classification_flowers\b_classification_flowers_original\tulip\15922772266_1167a06620.jpg
+DUPLICATE: ..\..\datasets\b_classification_flowers\b_classification_flowers_original\tulip\17104364030_ee31ee279b_n.jpg
+DUPLICATE: ..\..\datasets\b_classification_flowers\b_classification_flowers_original\tulip\17291451621_0e39f08b9e_n.jpg
+DUPLICATE: ..\..\datasets\b_classification_flowers\b_classification_flowers_original\tulip\17291930305_79deae6a90_n.jpg
+DUPLICATE: ..\..\datasets\b_classification_flowers\b_classification_flowers_original\sunflower\15066430311_fb57fa92b0_m.jpg
+DUPLICATE: ..\..\datasets\b_classification_flowers\b_classification_flowers_original\sunflower\15072973261_73e2912ef2_n.jpg
